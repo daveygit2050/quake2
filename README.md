@@ -20,6 +20,12 @@ Extract the `colormap` archive and move the file into the `pics/`. Rename it to 
 ./compile.sh maps/example.map
 ```
 
+## Playing a map
+
+Run Quake 2 through Steam.
+
+From the console run `map example`.
+
 ## References
 
 * [FROM THE ARCHIVE: Mapping for Quake II RTX (Linux)](https://bits.p1x.in/quake-2-map-making-in-debian-9/)
